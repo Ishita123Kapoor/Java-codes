@@ -1,3 +1,7 @@
+//Time complexity = O(n)
+//where n is my length of string
+
+
 import java.util.*;
 
 
